@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">frontend_compose1</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
